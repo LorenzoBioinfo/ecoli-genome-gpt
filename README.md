@@ -1,4 +1,4 @@
-# 🧬 EcoliGTP DNA language model: Teaching a GPT to Read the Genome
+# 🧬 EcoliGPT DNA language model: Teaching a GPT to Read the Genome
 
 > *What does a transformer learn when trained on DNA — without being told about codons, ribosomes, or amino acids?*
 
